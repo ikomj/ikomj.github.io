@@ -1,5 +1,5 @@
 ## Internetowe Kółko Matematyczne Juniorów
 
-# Aktualności
+### Aktualności
 
 Jesteśmy w fazie testów
