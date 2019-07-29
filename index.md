@@ -9,4 +9,4 @@ Strona w budowie
 //Wersja językowa:
 
 //- [polski](https://ikomj.github.io/pl)
-//- angielski (niedostępna)---!>
+//- angielski (niedostępna)--->
