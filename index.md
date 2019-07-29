@@ -1,10 +1,12 @@
 ## Internetowe Kółko Matematyczne Juniorów
 
-### Aktualności
+Zadania
 
-Jesteśmy w fazie testów
+//### Aktualności
 
-Wersja językowa:
+//Jesteśmy w fazie testów
 
-- [polski](https://ikomj.github.io/pl)
-- angielski (niedostępna)
+//Wersja językowa:
+
+//- [polski](https://ikomj.github.io/pl)
+//- angielski (niedostępna)
